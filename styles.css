@@ -1,0 +1,16 @@
+#my-project{
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    
+}
+
+.logo-instagram {
+    display: flex;
+    text-align: center;
+    margin-left: 32.8rem;
+    margin-right: 32.8rem;
+    margin-top: 2rem;
+}

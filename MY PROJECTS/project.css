@@ -1,0 +1,30 @@
+html{
+    margin: 0;
+    padding: 0;
+    
+}
+.gambar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+#img-1  {
+    justify-content: center;
+    align-items: center;
+}
+#img-2 {
+    display: none;
+}
+#img-3 {
+    display: none ;
+}
