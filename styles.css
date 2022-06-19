@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+li,p,a {
+    font-family: 'Inter', sans-serif;
+    
+}
+h1 {
+    font-family: 'Inter', sans-serif;
+     
+}
 #my-project{
     margin-top: 1rem;
     padding-top: 0.5rem;
@@ -10,7 +26,6 @@
 .logo-instagram {
     display: flex;
     text-align: center;
-    margin-left: 32.8rem;
-    margin-right: 32.8rem;
+    
     margin-top: 2rem;
 }
