@@ -12,6 +12,7 @@ li,p,a {
 }
 h1 {
     font-family: 'Inter', sans-serif;
+    padding-top: 1.5rem;
      
 }
 #my-project{
@@ -23,9 +24,9 @@ h1 {
     
 }
 
-.logo-instagram {
+.logo-github {
     display: flex;
     text-align: center;
-    
+    align-items: center;
     margin-top: 2rem;
 }
